@@ -60,3 +60,6 @@ Nous pouvons maintenant importer ces bibliothèques dans notre code :
 import neopixel
 from board import *
 ```
+
+
+Readme écrit par M DEWATRE Pierre
