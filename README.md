@@ -61,5 +61,5 @@ import neopixel
 from board import *
 ```
 
-
+## Credits
 Readme écrit par M DEWATRE Pierre
